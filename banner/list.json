@@ -2,9 +2,9 @@
     "name": "Mode Banners",
     "list": [
       {
-        "chainId": [919],
+        "chainId": [929],
         "title": "MODE TESTNET CAMPAIGN IS LIVE",
-        "href": "https://mirror.xyz/0x4D1f14B21284EB0f93a45E744e2Ed3D284d038C7/pnaCf_DBt6c6jufWJYaJMmDLsdAyI1S1Emb2iCrqL_A",
+        "href": "",
         "target": "_blank",
         "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner/assets/banner.png"
       }
