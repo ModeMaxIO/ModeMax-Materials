@@ -3,8 +3,8 @@
     "epochStartTime": 1711929600,
     "epochEndTime": 1718063999,
     "AirdropTotal": 200000,
-    "TradingRate": 0.01,
-    "LiquidityRate": 0.1,
+    "TradingRate": 10,
+    "LiquidityRate": 4,
     "ReferralRate": 0.1,
     "ProfitRate": 0.1,
     "version": {
