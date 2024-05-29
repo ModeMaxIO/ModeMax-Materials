@@ -5,7 +5,7 @@
     "AirdropTotal": 200000,
     "TradingRate": 10,
     "LiquidityRate": 0.000011574074074074073,
-    "ReferralRate": 0.1,
+    "ReferralRate": 1,
     "ProfitRate": 0.1,
     "user": [
         "0x17c1b4F4F28C84F4C2CCA2Ed672CD8cE9E590407",
