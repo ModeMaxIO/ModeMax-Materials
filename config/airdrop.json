@@ -1,7 +1,7 @@
 {
     "name": "Mode Airdrop Config",
-    "epochStartTime": 1714492800,
-    "epochEndTime": 1746028800,
+    "epochStartTime": 1714521600,
+    "epochEndTime": 1746057600,
     "AirdropTotal": 200000,
     "TradingRate": 10,
     "LiquidityRate": 0.000011574074074074073,
