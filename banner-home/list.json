@@ -7,7 +7,7 @@
         "title": "",
         "href": "https://testnet.modemax.io/#/points",
         "target": "_blank",
-        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/v1.png"
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/1.png"
       },
       {
         "isDev": true,
@@ -41,7 +41,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 1
+      "patch": 2
     }
   }
   
