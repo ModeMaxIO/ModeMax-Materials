@@ -7,35 +7,35 @@
         "title": "",
         "href": "https://testnet.modemax.io/#/points",
         "target": "_blank",
-        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/1.png"
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/v1.png"
       },
       {
         "isDev": true,
         "title": "",
         "href": "https://testnet.modemax.io/#/points",
         "target": "_blank",
-        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/2.png"
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/v2.png"
       },
       {
         "isDev": true,
         "title": "",
         "href": "https://testnet.modemax.io/#/points",
         "target": "_blank",
-        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/3.png"
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/v3.png"
       },
       {
         "isDev": true,
         "title": "",
         "href": "https://testnet.modemax.io/#/points",
         "target": "_blank",
-        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/4.png"
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/v4.png"
       },
       {
         "isDev": true,
         "title": "https://testnet.modemax.io/#/points",
         "href": "",
         "target": "_blank",
-        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/5.png"
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/v5.png"
       },
     ],
     "version": {
